@@ -1,0 +1,55 @@
+2018/10/07 22:38:27 :: Starting SVN Multi Dump Tool ::
+2018/10/07 22:38:27 >> Worker 1 is working on "/data/svnmdump/repos/repo01.svnmdump.toml"
+2018/10/07 22:38:27 >> Worker 2 is working on "/data/svnmdump/repos/repo02.svnmdump.toml"
+2018/10/07 22:38:27 >> Worker 3 is working on "/data/svnmdump/repos/repo03.svnmdump.toml"
+2018/10/07 22:38:42 >> Worker 3: Creating "/data/svnmdump/dump_store/repo03"
+2018/10/07 22:38:42 >> Worker 3: Performing FULL dump of /svn/repo03 to /data/svnmdump/dump_store/repo03/FULL.dump from Revision 0 to 4981
+2018/10/07 22:38:42 >> Worker 3: 
+2018/10/07 22:38:42 >> Worker 3 has finished with "/data/svnmdump/repos/repo03.svnmdump.toml" - runtime 14.864603534s
+2018/10/07 22:38:42 >> Worker 3 is working on "/data/svnmdump/repos/repo04.svnmdump.toml"
+2018/10/07 22:38:42 >> Worker 2: Creating "/data/svnmdump/dump_store/repo02"
+2018/10/07 22:38:42 >> Worker 2: Performing FULL dump of /svn/repo02 to /data/svnmdump/dump_store/repo02/FULL.dump from Revision 0 to 4981
+2018/10/07 22:38:42 >> Worker 2: 
+2018/10/07 22:38:42 >> Worker 2 has finished with "/data/svnmdump/repos/repo02.svnmdump.toml" - runtime 15.172525681s
+2018/10/07 22:38:42 >> Worker 2 is working on "/data/svnmdump/repos/repo05.svnmdump.toml"
+2018/10/07 22:38:42 >> Worker 1: Creating "/data/svnmdump/dump_store/repo01"
+2018/10/07 22:38:42 >> Worker 1: Performing FULL dump of /svn/repo01 to /data/svnmdump/dump_store/repo01/FULL.dump from Revision 0 to 7471
+2018/10/07 22:38:42 >> Worker 1: 
+2018/10/07 22:38:42 >> Worker 1 has finished with "/data/svnmdump/repos/repo01.svnmdump.toml" - runtime 15.267162647s
+2018/10/07 22:38:42 >> Worker 1 is working on "/data/svnmdump/repos/repo06.svnmdump.toml"
+2018/10/07 22:38:56 >> Worker 1: Creating "/data/svnmdump/dump_store/repo06"
+2018/10/07 22:38:56 >> Worker 1: Performing FULL dump of /svn/repo01 to /data/svnmdump/dump_store/repo06/FULL.dump from Revision 0 to 7471
+2018/10/07 22:38:56 >> Worker 1: 
+2018/10/07 22:38:56 >> Worker 1 has finished with "/data/svnmdump/repos/repo06.svnmdump.toml" - runtime 14.327227136s
+2018/10/07 22:38:56 >> Worker 1 is working on "/data/svnmdump/repos/repo07.svnmdump.toml"
+2018/10/07 22:38:57 >> Worker 3: Creating "/data/svnmdump/dump_store/repo04"
+2018/10/07 22:38:57 >> Worker 3: Performing FULL dump of /svn/repo04 to /data/svnmdump/dump_store/repo04/FULL.dump from Revision 0 to 4981
+2018/10/07 22:38:57 >> Worker 3: 
+2018/10/07 22:38:57 >> Worker 3 has finished with "/data/svnmdump/repos/repo04.svnmdump.toml" - runtime 15.388237766s
+2018/10/07 22:38:57 >> Worker 3 is working on "/data/svnmdump/repos/repo08.svnmdump.toml"
+2018/10/07 22:39:01 >> Worker 2: Creating "/data/svnmdump/dump_store/repo05"
+2018/10/07 22:39:01 >> Worker 2: Performing FULL dump of /svn/repo05 to /data/svnmdump/dump_store/repo05/FULL.dump from Revision 0 to 7471
+2018/10/07 22:39:01 >> Worker 2: 
+2018/10/07 22:39:01 >> Worker 2 has finished with "/data/svnmdump/repos/repo05.svnmdump.toml" - runtime 18.947107768s
+2018/10/07 22:39:01 >> Worker 2 is working on "/data/svnmdump/repos/repo09.svnmdump.toml"
+2018/10/07 22:39:07 >> Worker 1: Creating "/data/svnmdump/dump_store/repo07"
+2018/10/07 22:39:07 >> Worker 1: Performing FULL dump of /svn/repo02 to /data/svnmdump/dump_store/repo07/FULL.dump from Revision 0 to 4981
+2018/10/07 22:39:07 >> Worker 1: 
+2018/10/07 22:39:07 >> Worker 1 has finished with "/data/svnmdump/repos/repo07.svnmdump.toml" - runtime 10.351480842s
+2018/10/07 22:39:07 >> Worker 1 is working on "/data/svnmdump/repos/repo99.svnmdump.toml"
+2018/10/07 22:39:07 >> Worker 1: Creating "/data/svnmdump/dump_store/repo99"
+2018/10/07 22:39:07 !! Worker 1: Error Encountered
+2018/10/07 22:39:07 !! Worker 1: svnlook: E000002: Can't open file '/svn/repo99/format': No such file or directory
+2018/10/07 22:39:07 >> Worker 1 has finished with "/data/svnmdump/repos/repo99.svnmdump.toml" - runtime 30.761876ms
+2018/10/07 22:39:07 >> Worker 1 has exited
+2018/10/07 22:39:08 >> Worker 3: Creating "/data/svnmdump/dump_store/repo08"
+2018/10/07 22:39:08 >> Worker 3: Performing FULL dump of /svn/repo03 to /data/svnmdump/dump_store/repo08/FULL.dump from Revision 0 to 4981
+2018/10/07 22:39:08 >> Worker 3: 
+2018/10/07 22:39:08 >> Worker 3 has finished with "/data/svnmdump/repos/repo08.svnmdump.toml" - runtime 11.247971316s
+2018/10/07 22:39:08 >> Worker 3 has exited
+2018/10/07 22:39:11 >> Worker 2: Creating "/data/svnmdump/dump_store/repo09"
+2018/10/07 22:39:11 >> Worker 2: Performing FULL dump of /svn/repo04 to /data/svnmdump/dump_store/repo09/FULL.dump from Revision 0 to 4981
+2018/10/07 22:39:11 >> Worker 2: 
+2018/10/07 22:39:11 >> Worker 2 has finished with "/data/svnmdump/repos/repo09.svnmdump.toml" - runtime 9.767755436s
+2018/10/07 22:39:11 >> Worker 2 has exited
+2018/10/07 22:39:11 :: All Done - runtime 43.887673527s ::

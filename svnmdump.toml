@@ -1,0 +1,5 @@
+repos="/data/svnmdump/repos"
+log="/data/svnmdump/log/svnmdump.log"
+dump_store="/data/svnmdump/dump_store"
+workers=3
+worker_script="./svnmdump_worker.py"
